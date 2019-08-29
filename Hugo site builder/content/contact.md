@@ -16,6 +16,4 @@ slug = "contact"
 
 
 ## Call
-	+91-8768703908
-
- 
+<span class="fa fa-phone-square" aria-hidden="true" style="color:white"></span> `+91-8768703908`
